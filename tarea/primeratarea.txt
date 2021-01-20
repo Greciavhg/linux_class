@@ -1,0 +1,8 @@
+Tarea:
+1.- debes de crear las carpetas de todos los meses de este año con el formato "01_2021" y asi sucesivamente.
+2.- correr este comando: touch Januery{1..10}.txt February{1..5}.txt March{1..5}.txt April{1..2}.txt May{1..25}.txt June{10..15}.txt July{10..25}.txt August{10..12}.txt September{1..9}.txt October{1..8}.txt November{1..5}.txt Dicember{1..15}.txt
+3.- copiar todos los archivos a cada mes correspondiente.
+4.- crear una carpeta con el nombre de "Backup_files"
+5.- mover los archivos orginales a la carpeta "Backup_files"
+6.- crear una carpeta "Year_2021"
+7.- mover todas las carpetas de los meses a la carpeta "Year_2021"
